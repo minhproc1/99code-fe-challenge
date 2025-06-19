@@ -1,10 +1,35 @@
-# 99Tech Code Challenge #1 #
+# 💱 Three ways to sum to n + Currency Swap + Wallet Page Review
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+This project is a frontend coding challenge submission featuring:
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+- ✅ Problem 1: Three Ways to Sum to `n`
+- ✅ Problem 2: Currency Swap UI
+- ✅ Problem 3: Wallet Page Refactor & Review UI
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+---
+
+## 🚀 Getting Started
+
+###
+
+1. Clone the Repository
+   git clone https://github.com/minhproc1/99code-fe-challenge.git  
+   cd 99code-fe-challenge
+
+2. Install Dependencies
+   npm install/yarn install
+
+3. Run Developement Server
+   npm run dev/yarn dev
+
+###
+
+🛠 Tech Stack
+React + TypeScript
+Material UI
+Zod + React Hook Form
+React Syntax Highlighter
+ESLint + Prettier
+Vite
+
+##
